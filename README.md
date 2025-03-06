@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying Web app development in A.E.G 
 
-- 🌱 I’m currently learning **JS, NODE, PHP, PYTHON**
+- 🌱 I’m currently learning **JS, NODE, TYPESCRIPT, PHP**
 
 - 💬 Ask me about **JS and PHP**
 
