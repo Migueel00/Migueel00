@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migueel00" alt="migueel00" /></a> </p>
 
-- 🔭 I’m currently Studying Web app development in A.E.G 
+- 🔭 I´m a full stack web developer, principal stack: M.E.R.N.  
 
-- 🌱 I’m currently learning **JS, NODE, TYPESCRIPT, PHP**
+- 🌱 I’m currently learning *Mongo, Express, React, Node"
+- Currently working with "CI4, React"  
 
 - 💬 Ask me about **JS and PHP**
 
